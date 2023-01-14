@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "Jennifer",
+      "order": "Cold Brew"
+    },
+    {
+      "name": "Judd",
+      "order": "Hot Chocolate",
+      "id": 8
+    },
+    {
+      "name": "Hannah",
+      "order": "Avocado Toast",
+      "id": 9
+    },
+    {
+      "name": "Jeff",
+      "order": "Coffee",
+      "id": 10
+    },
+    {
+      "name": "Sherman",
+      "order": "Catnip",
+      "id": 11
+    },
+    {
+      "name": "Hannah",
+      "order": "Bacon Latte",
+      "id": 12
+    }
+  ]
+}
